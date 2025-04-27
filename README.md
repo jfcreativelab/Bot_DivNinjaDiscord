@@ -1,3 +1,10 @@
+![Bot Status](https://img.shields.io/badge/StealthBot-Online-success)
+![Discord API](https://img.shields.io/badge/Discord-API%20v9-blueviolet)
+![Project Type](https://img.shields.io/badge/Type-Automation-informational)
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+![Build](https://img.shields.io/badge/Build-Passing-brightgreen)
+
 # 🤖 Bot DivNinja Discord
 
 Automação ultra-stealth para envio de mensagens diretas no Discord, focada em divulgação segura, inteligente e de alta performance.
@@ -96,10 +103,3 @@ Com foco em alta performance, stealth e automação profissional no ambiente Dis
 ---
 
 **Obrigado por conferir o projeto!** 🚀
-
-![Bot Status](https://img.shields.io/badge/StealthBot-Online-success)
-![Discord API](https://img.shields.io/badge/Discord-API%20v9-blueviolet)
-![Project Type](https://img.shields.io/badge/Type-Automation-informational)
-![Python](https://img.shields.io/badge/Python-3.11-blue)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
-![Build](https://img.shields.io/badge/Build-Passing-brightgreen)
