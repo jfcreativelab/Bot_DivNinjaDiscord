@@ -96,3 +96,8 @@ Com foco em alta performance, stealth e automação profissional no ambiente Dis
 ---
 
 **Obrigado por conferir o projeto!** 🚀
+
+![Bot Status](https://img.shields.io/badge/StealthBot-Online-success)
+![Discord API](https://img.shields.io/badge/Discord-API%20v9-blueviolet)
+![Project Type](https://img.shields.io/badge/Type-Automation-informational)
+
