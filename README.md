@@ -33,7 +33,7 @@ bot_divninjaDiscord.py    # Código principal do bot
 tokens.txt                # Lista de tokens de contas fake (um por linha)
 enviados.txt              # IDs que já receberam mensagem
 falhou_dm.txt             # IDs que não aceitam DMs
-bot_cabana.log            # Log de atividades do bot
+bot_divninjaDiscord.log   # Log de atividades do bot
 ```
 
 
