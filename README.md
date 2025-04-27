@@ -87,9 +87,9 @@ python bot_divninjaDiscord.py
 
 ---
 
-## 🧠 Desenvolvido por
+## 🧠 Desenvolvido por **JF CREATIVE LAB**
 
-**JF CREATIVE LAB**
+Codigo Aberto, totalmente gratis para testes e novas versões
 
 Com foco em alta performance, stealth e automação profissional no ambiente Discord!
 
