@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>DivNinja Discord - Apresentação</title>
+  <link rel="stylesheet" href="styles.css" />
+  <script defer src="script.js"></script>
+  <link rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+</head>
+<body>
+  <!-- NAVBAR -->
+  <header class="navbar">
+    <div class="container nav-flex">
+      <h1 class="logo"><i class="fa-solid fa-robot"></i> DivNinja</h1>
+      <nav>
+        <ul class="nav-links">
+          <li><a href="#sobre">Sobre</a></li>
+          <li><a href="#features">Funcionalidades</a></li>
+          <li><a href="#tecnologias">Tecnologias</a></li>
+          <li><a href="#contato">Contato</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <!-- HERO -->
+  <section class="hero">
+    <div class="container hero-grid">
+      <div class="hero-text">
+        <h2><span class="grad">Bot DivNinja Discord</span></h2>
+        <p>Automação <strong>ultra‑stealth</strong> para envio de mensagens diretas no Discord.  
+        Divulgue com segurança, inteligência e alta performance.</p>
+        <h3 class="price"><i class="fa-solid fa-tags"></i> Preço fixo: <span>R$ 100</span></h3>
+        <a href="#contato" class="btn-primary"><i class="fa-solid fa-paper-plane"></i> Quero Saber Mais</a>
+      </div>
+      <div class="hero-img">
+        <i class="fa-solid fa-robot robot-icon pulse"></i>
+      </div>
+    </div>
+  </section>
+
+  <!-- SOBRE -->
+  <section id="sobre" class="sobre container">
+    <h3><i class="fa-solid fa-circle-info"></i> Sobre o Projeto</h3>
+    <p>
+      O <strong>DivNinja</strong> coleta usuários ativos em servidores, envia mensagens diretas com comportamento humano realista e alterna automaticamente entre múltiplos tokens para reduzir riscos de detecção e banimento.
+      O objetivo principal é maximizar a entrega de mensagens e minimizar a exposição da conta no ambiente do Discord.
+    </p>
+  </section>
+
+  <!-- FEATURES -->
+  <section id="features" class="features container">
+    <h3><i class="fa-solid fa-star"></i> Funcionalidades</h3>
+    <div class="feature-grid">
+      <div class="card"><i class="fa-solid fa-bullseye"></i><h4>Coleta Ativa</h4><p>Busca usuários reais em canais de texto.</p></div>
+      <div class="card"><i class="fa-solid fa-brain"></i><h4>Envio Humanizado</h4><p>Headers dinâmicos e delays variáveis.</p></div>
+      <div class="card"><i class="fa-solid fa-rotate"></i><h4>Rotação de Tokens</h4><p>Muda automaticamente após X envios.</p></div>
+      <div class="card"><i class="fa-solid fa-clock"></i><h4>Delays Naturais</h4><p>60–120s entre mensagens e pausas longas.</p></div>
+      <div class="card"><i class="fa-solid fa-file-lines"></i><h4>Registros</h4><p>Salva quem já recebeu ou recusou mensagem.</p></div>
+      <div class="card"><i class="fa-solid fa-scroll"></i><h4>Logs Ao Vivo</h4><p>Acompanhe tudo em tempo real.</p></div>
+    </div>
+  </section>
+
+  <!-- TECNOLOGIAS -->
+  <section id="tecnologias" class="tecnologias container">
+    <h3><i class="fa-solid fa-gear"></i> Tecnologias</h3>
+    <ul class="tech-list">
+      <li><i class="fa-brands fa-python"></i> Python 3.11+</li>
+      <li><i class="fa-solid fa-code"></i> requests / json / base64</li>
+      <li><i class="fa-solid fa-terminal"></i> logging avançado</li>
+    </ul>
+  </section>
+
+  <!-- CONTATO -->
+  <section id="contato" class="contato container">
+    <h3><i class="fa-solid fa-envelope"></i> Fale com a gente</h3>
+    <p>Preencha abaixo e receba todas as infos para adquirir o DivNinja!</p>
+    <form id="lead-form">
+      <input type="text" name="name" placeholder="Seu nome" required>
+      <input type="email" name="email" placeholder="Seu e-mail" required>
+      <button type="submit" class="btn-primary"><i class="fa-solid fa-paper-plane"></i> Enviar</button>
+    </form>
+  </section>
+
+  <footer class="footer">
+    <p>© 2025 <strong>DivNinja</strong> | JF Creative Lab. Todos os direitos reservados.</p>
+  </footer>
+</body>
+</html>
